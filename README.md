@@ -7,7 +7,4 @@ As of January 2025, New York City has implemented Congestion Pricing Tolls to th
 
 
 # Commuter Crashes Poster
-
-![Commuter Crashes Poster](Commuter_Poster.png) 
-
-
+![Commuter Poster](https://github.com/user-attachments/assets/ed04050c-3e00-4898-8fc9-2606edb183e0)
